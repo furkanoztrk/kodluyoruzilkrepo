@@ -6,7 +6,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org) ve [Patika](https://patika.dev) Fro
 Öncelikle projeyi clonelayın.
 
 ```bash 
-git clone https://github.com/bgebes/kodluyoruzilkrepo.git
+git clone https://github.com/furkanoztrk/kodluyoruzilkrepo.git
 ```
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
@@ -27,4 +27,3 @@ code .
 
 
 ![Lord Of The Rings]
-(https://img.wallpapersafari.com/desktop/1920/1080/72/60/zQ2kq1.jpg

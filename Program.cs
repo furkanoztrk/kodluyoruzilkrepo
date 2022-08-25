@@ -27,7 +27,7 @@ sayiListesi.ForEach(sayi=>Console.WriteLine(sayi));
 renkListesi.ForEach(renk=>Console.WriteLine(renk));
 // Listeden eleman çıkarma
 sayiListesi.Remove(4);
-renkListesi.Remove("Yeşil");
+renkListesi.Remove("Yeşisl");
 sayiListesi.RemoveAt(0);
 renkListesi.RemoveAt(1);
 sayiListesi.ForEach(sayi=>Console.WriteLine(sayi));

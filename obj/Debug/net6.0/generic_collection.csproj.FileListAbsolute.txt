@@ -1,0 +1,15 @@
+C:\Users\FURKAN\Desktop\test\generic_collection\bin\Debug\net6.0\generic_collection.exe
+C:\Users\FURKAN\Desktop\test\generic_collection\bin\Debug\net6.0\generic_collection.deps.json
+C:\Users\FURKAN\Desktop\test\generic_collection\bin\Debug\net6.0\generic_collection.runtimeconfig.json
+C:\Users\FURKAN\Desktop\test\generic_collection\bin\Debug\net6.0\generic_collection.dll
+C:\Users\FURKAN\Desktop\test\generic_collection\bin\Debug\net6.0\generic_collection.pdb
+C:\Users\FURKAN\Desktop\test\generic_collection\obj\Debug\net6.0\generic_collection.csproj.AssemblyReference.cache
+C:\Users\FURKAN\Desktop\test\generic_collection\obj\Debug\net6.0\generic_collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\Desktop\test\generic_collection\obj\Debug\net6.0\generic_collection.AssemblyInfoInputs.cache
+C:\Users\FURKAN\Desktop\test\generic_collection\obj\Debug\net6.0\generic_collection.AssemblyInfo.cs
+C:\Users\FURKAN\Desktop\test\generic_collection\obj\Debug\net6.0\generic_collection.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\test\generic_collection\obj\Debug\net6.0\generic_collection.dll
+C:\Users\FURKAN\Desktop\test\generic_collection\obj\Debug\net6.0\refint\generic_collection.dll
+C:\Users\FURKAN\Desktop\test\generic_collection\obj\Debug\net6.0\generic_collection.pdb
+C:\Users\FURKAN\Desktop\test\generic_collection\obj\Debug\net6.0\generic_collection.genruntimeconfig.cache
+C:\Users\FURKAN\Desktop\test\generic_collection\obj\Debug\net6.0\ref\generic_collection.dll
